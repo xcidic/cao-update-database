@@ -1,0 +1,10 @@
+# config.yaml
+
+database:
+  host: ""
+  port: ""
+  db_name: ""
+  username: ""
+  password: ""
+
+
